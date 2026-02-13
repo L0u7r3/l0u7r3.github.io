@@ -290,7 +290,7 @@ We can't login as `svc_pwm` on the AD, but we remember that PWM is the name of t
 
 ![PWM](/assets/images/authority/1.png)
 
-After trying to login with the creds we found we go an error. 
+After trying to login with the creds we found we got an error. 
 
 ![PWM Login error](/assets/images/authority/2.png)
 
