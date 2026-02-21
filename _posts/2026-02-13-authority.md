@@ -7,11 +7,12 @@ tags: [hackthebox, windows, medium]
 image: https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/e6257bbacb2ddd56f5703bb61eadd8cb.png
 ---
 
+## Machine Information
 
 TARGET_IP: 10.129.229.56 \\
 ATTACKER_IP: 10.10.16.99
 
-
+## User Part
 ```
 exegol-Authority /workspace # rustscan --addresses "10.129.229.56" -- -sV -Pn -sC 
 .----. .-. .-. .----..---.  .----. .---.   .--.  .-. .-.
@@ -352,6 +353,8 @@ Mode                LastWriteTime         Length Name
 *Evil-WinRM* PS C:\Users\svc_ldap\Desktop> cat user.txt
 5fed[REDACTED]
 ```
+
+## Root Part
 
 ![BloodHound ADCS](/assets/images/authority/6.png)
 
