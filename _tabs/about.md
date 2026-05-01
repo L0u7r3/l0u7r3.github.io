@@ -15,6 +15,6 @@ If you have any comments or questions about what I wrote, feel free to contact m
  
 <div align="center">
   <a href="https://app.hackthebox.com/profile/2225829" title="Hack The Box Profile">
-    <img src="http://www.hackthebox.eu/badge/image/2225829" alt="Hack The Box Badge" width="260" height="70" style="max-width: 100%; height: auto;" />
+    <img src="https://www.hackthebox.eu/badge/image/2225829" alt="Hack The Box Badge" width="260" height="70" style="max-width: 100%; height: auto;" />
   </a>
 </div>
